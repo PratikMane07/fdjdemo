@@ -16,6 +16,12 @@ public class HomeController {
   {
     return "Logout";
   }
+
+   @GetMapping("/log")
+  public String m3()
+  {
+    return "Logout";
+  }
   
 
   

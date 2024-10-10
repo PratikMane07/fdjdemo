@@ -17,13 +17,5 @@ public class HomeController {
     return "Logout";
   }
   
- @GetMapping("/m3")
-  public String m3()
-  {
-    return "Register";
-  }
-
-
-
   
 }

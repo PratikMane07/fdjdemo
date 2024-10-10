@@ -35,7 +35,11 @@ public class HomeController {
   {
     return "OMkarrr ";
   }
-  
+  @GetMapping("/log")
+  public String m9()
+  {
+    return ok";
+  }
 
   
 }

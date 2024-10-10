@@ -23,6 +23,12 @@ public class HomeController {
     return "Register";
   }
 
+   @GetMapping("/m4")
+  public String m4()
+  {
+    return "Register";
+  }
+
 
 
   

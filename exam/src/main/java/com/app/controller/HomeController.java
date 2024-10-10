@@ -29,6 +29,12 @@ public class HomeController {
   {
     return "Logout";
   }
+
+   @GetMapping("/log")
+  public String m5()
+  {
+    return "OMkarrr ";
+  }
   
 
   

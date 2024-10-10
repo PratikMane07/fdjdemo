@@ -10,6 +10,8 @@ public class HomeController {
     return "Login page";
   }
 
+
+
   
   @GetMapping("/log")
   public String m2()

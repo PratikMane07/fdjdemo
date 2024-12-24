@@ -43,5 +43,10 @@ public class HomeController {
     return ok";
   }
 
+  public void f1()
+  {
+    
+  }
+
   
 }
